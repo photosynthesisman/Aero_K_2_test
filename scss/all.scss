@@ -57,14 +57,15 @@
         }
       }
       .sch_box {
-        padding: 1.9rem !important;
+        // padding: 1.9rem !important;
+        padding: 1.7rem !important;
         .date_picker,
         .head_count {
           margin-top: 2rem !important;
         }
         .location_box {
           justify-content: space-between;
-          gap: 0 !important;
+          // gap: 2rem !important;
         }
         .tit {
           font-size: 1.3rem !important;
